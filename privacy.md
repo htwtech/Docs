@@ -93,9 +93,11 @@ services, and develop new products and services. We may also process personal in
 parties for our lawful business purposes.
 
 **How We Share your Personal Information**
+
 **Affiliates**
 We may share your personal information with our parent company, subsidiaries, and affiliates, for purposes
 consistent with this Privacy Policy.
+
 **Service providers**
 We may employ third party companies and individuals to administer and provide services on our behalf (such
 as customer support, hosting, email delivery, investor accreditation and KYC, and database management
@@ -120,15 +122,18 @@ consolidation, acquisition, reorganization or sale of assets or in the event of 
 make reasonable efforts to require the recipient to honor this Privacy Policy.
 
 **Your Choices**
+
 **Access or update your information**
 In some countries, applicable law may provide a right for an individual to access, update or correct personal
 information in our custody and control about that individual. Individuals may contact us directly at the contact
 information set out below to exercise applicable rights. We may request certain personal information for the
 purpose of verifying the identity of the individual seeking access to his or her personal information. We may
 not be able to provide access to, or correction of, your information in all circumstances
+
 **Marketing communications**
 You may opt out of marketing-related emails by clicking on the opt-out or unsubscribe link at the bottom of
 each such email. You may continue to receive service-related and other non-marketing emails.
+
 **Targeted online advertising**
 Some of the business partners that collect information about users’ activities on our Site may be members of
 organizations or programs that provide choices to individuals regarding the use of their browsing behavior or
@@ -141,6 +146,7 @@ If you choose to opt-out of targeted advertisements, you will still see advertis
 be relevant to you. Even if you do choose to opt out, not all companies that serve online behavioral
 advertising are included in this list, and so you may still receive some cookies and tailored advertisements
 from companies that are not listed.
+
 **Do Not Track Signals**
 Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit.
 We currently do not currently respond to do not track signals. To find out more about "Do Not Track," please
@@ -167,6 +173,7 @@ Any modifications to this Privacy Policy will be effective upon our posting of t
 implementation of the new changes on the Site (or as otherwise indicated at the time of posting). In all cases,
 your continued use of the Site after the posting of any modified Privacy Policy indicates your acceptance of the
 terms of the modified Privacy Policy.
-Contact Us
+
+**Contact Us**
 If you have any questions or concerns about our Privacy Policy or privacy practices, please feel free to email us
-at privacy@Hightower.com.
+at privacy@htw.tech
