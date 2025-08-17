@@ -21,14 +21,14 @@ practices when we process personal information for our own purposes.
 
 We collect the personal information described below through the Site or when you communicate with us. We
 do not collect these types of information when performing our services.
- Personal and business contact information, such as your first name, last name, mailing address, phone
+- Personal and business contact information, such as your first name, last name, mailing address, phone
 number, and email address
- Feedback and correspondence, such as information you provide when you contact us with questions,
+- Feedback and correspondence, such as information you provide when you contact us with questions,
 feedback, or otherwise correspond with us online
- Profile information, such as the username and password that you may set to establish an online
+- Profile information, such as the username and password that you may set to establish an online
 account with us, and your preferences regarding our services and marketing communications
- Demographic information, such as your city, state, country, and postal code
- Usage information, such as information about how you use the Site and interact with us, including any
+- Demographic information, such as your city, state, country, and postal code
+- Usage information, such as information about how you use the Site and interact with us, including any
 information that you submit to us through the Site
 
 **Investor information**
@@ -41,11 +41,11 @@ method of payment for the investment.
 
 **Information we collect when providing our services**
 We may collect information that is publicly available in a blockchain when providing our services, such as:
- Public wallet identifier of the sender and recipient of a transaction
- Unique identifier for a transaction
- Date and time of a transaction
- Transaction value, along with associated costs
- Status of a transaction (such as whether the transaction is complete, in-progress, or resulted in an error)
+- Public wallet identifier of the sender and recipient of a transaction
+- Unique identifier for a transaction
+- Date and time of a transaction
+- Transaction value, along with associated costs
+- Status of a transaction (such as whether the transaction is complete, in-progress, or resulted in an error)
 
 **Cookies and other information collected by automated means**
 
